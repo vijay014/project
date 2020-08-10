@@ -1,0 +1,12 @@
+.THIS .slds-combobox__input-entity-icon + .slds-input-has-icon_left {
+    padding-left: 2rem;
+}
+
+.THIS .full-size {
+    width:100%;
+}
+.THIS .slds-listbox_vertical
+{
+    overflow:initial;
+    z-index:10000;
+}
